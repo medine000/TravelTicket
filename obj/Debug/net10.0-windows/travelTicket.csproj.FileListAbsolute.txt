@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\travelTicket\travelTicket\bin\Debug\net10.0-windows\travelTicket.exe
+C:\Users\hp\source\repos\travelTicket\travelTicket\bin\Debug\net10.0-windows\travelTicket.deps.json
+C:\Users\hp\source\repos\travelTicket\travelTicket\bin\Debug\net10.0-windows\travelTicket.runtimeconfig.json
+C:\Users\hp\source\repos\travelTicket\travelTicket\bin\Debug\net10.0-windows\travelTicket.dll
+C:\Users\hp\source\repos\travelTicket\travelTicket\bin\Debug\net10.0-windows\travelTicket.pdb
+C:\Users\hp\source\repos\travelTicket\travelTicket\obj\Debug\net10.0-windows\travelTicket.Form1.resources
+C:\Users\hp\source\repos\travelTicket\travelTicket\obj\Debug\net10.0-windows\travelTicket.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\travelTicket\travelTicket\obj\Debug\net10.0-windows\travelTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\travelTicket\travelTicket\obj\Debug\net10.0-windows\travelTicket.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\travelTicket\travelTicket\obj\Debug\net10.0-windows\travelTicket.AssemblyInfo.cs
+C:\Users\hp\source\repos\travelTicket\travelTicket\obj\Debug\net10.0-windows\travelTicket.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\travelTicket\travelTicket\obj\Debug\net10.0-windows\travelTicket.dll
+C:\Users\hp\source\repos\travelTicket\travelTicket\obj\Debug\net10.0-windows\refint\travelTicket.dll
+C:\Users\hp\source\repos\travelTicket\travelTicket\obj\Debug\net10.0-windows\travelTicket.pdb
+C:\Users\hp\source\repos\travelTicket\travelTicket\obj\Debug\net10.0-windows\travelTicket.genruntimeconfig.cache
+C:\Users\hp\source\repos\travelTicket\travelTicket\obj\Debug\net10.0-windows\ref\travelTicket.dll
